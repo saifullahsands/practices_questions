@@ -98,6 +98,11 @@ const mixed14 = [0, 'hello', false, '', 42, null, undefined];
 const truthyValues = mixed14.filter(val => val);
 console.log(truthyValues);
 
+
+
+
+
+
 const str12="its practise time i am practise javascript";
  let maxWord = ""
     let maxLength = 0
